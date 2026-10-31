@@ -58,6 +58,8 @@ def short(d):
 def span(s):
     if not s or not s.get("length"):
         return "—"
+    if s.get("start") == s.get("end"):
+        return short(s.get("start"))
     return f'{short(s.get("start"))} – {short(s.get("end"))}'
 
 
@@ -71,13 +73,14 @@ days = data.get("days", [])
 n_days = len(days) if days else 365
 active = data.get("active_days", 0)
 total = data.get("total_contributions", 0)
+total_all = data.get("total_contributions_all_time", total)
 avg_day = data.get("avg_per_active_day", 0.0)
 username = data.get("username", "mahito-0")
 
 tiles = [
     ("current streak", cur["length"], " days", span(cur), GREEN),
     ("longest streak", lng["length"], " days", span(lng), INK),
-    ("contributions", total, "", "in the last year", INK),
+    ("contributions", total, "", f"in the last year · {total_all:,} all-time", INK),
     ("active days", active, f" / {n_days}", f'{active / n_days:.0%} of the year' if n_days else "0%", INK),
     ("best day", best["count"], "", short(best["date"]), INK),
     ("avg / active day", avg_day, "", "contributions", INK),

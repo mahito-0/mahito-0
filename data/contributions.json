@@ -1,11 +1,15 @@
 {
   "username": "mahito-0",
-  "generated_at": "2026-10-31T17:21:33Z",
+  "generated_at": "2026-10-31T17:29:48Z",
   "range": {
     "start": "2025-10-26",
     "end": "2026-10-31"
   },
-  "total_contributions": 659,
+  "total_contributions": 660,
+  "total_contributions_all_time": 1093,
+  "public_repos": 15,
+  "total_commits": 321,
+  "total_stars": 1,
   "active_days": 148,
   "avg_per_active_day": 4.5,
   "current_streak": {
@@ -14,9 +18,9 @@
     "end": "2026-10-31"
   },
   "longest_streak": {
-    "length": 12,
-    "start": "2026-01-10",
-    "end": "2026-01-21"
+    "length": 20,
+    "start": "2025-08-10",
+    "end": "2025-08-29"
   },
   "best_day": {
     "date": "2026-02-20",
@@ -73,7 +77,7 @@
     },
     {
       "month": "2026-10",
-      "total": 37
+      "total": 38
     }
   ],
   "days": [
@@ -1929,7 +1933,7 @@
     },
     {
       "date": "2026-10-31",
-      "count": 4,
+      "count": 5,
       "level": 1
     }
   ]
