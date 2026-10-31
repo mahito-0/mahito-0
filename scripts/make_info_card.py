@@ -63,7 +63,7 @@ INFO_ROWS = [
     ("Frameworks", "HTML5 · CSS3 · .NET · MySQL · Apache", TEXT_WHITE),
     ("Focus", "Test Plans · Defect Tracking · Edge Cases", ACCENT_PURPLE),
     ("Learning", "API Automation Testing & Agile QA", ACCENT_GREEN),
-    ("Portfolio", "mahito-0.github.io/Portfolio", KEY_COLOR),
+    ("Portfolio", "mahmudsqa.vercel.app", KEY_COLOR),
     ("Email", "syedmahmud10270@gmail.com", KEY_COLOR),
     ("Location", "Dhaka, Bangladesh", MUTED),
     ("Fun Fact", "Catching that sneaky bug before production!", ACCENT_YELLOW),

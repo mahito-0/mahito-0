@@ -30,7 +30,7 @@
 <p><b>Final Year CSE Student · Passionate SQA Engineer · AIUB</b></p>
 
 <p align="center">
-  <a href="https://mahito-0.github.io/Portfolio/">
+  <a href="https://mahmudsqa.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-059669?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/syed-al-mahmud-45a671296">
