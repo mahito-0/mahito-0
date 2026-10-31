@@ -10,14 +10,15 @@
 <br>
 <br>
 
-<!-- ascii portrait (left) + neofetch info card (right). both svgs align to 860 total width (370 + 490) -->
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights. -->
 
 <h3><code>mahito@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./mahito-ascii.svg" width="370" alt="Syed Al Mahmud — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Syed Al Mahmud — Neofetch Info Card" /></td>
+<td valign="top"><img src="./mahito-ascii.svg" width="420" alt="Syed Al Mahmud — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Syed Al Mahmud's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
 
