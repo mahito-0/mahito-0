@@ -1,16 +1,16 @@
 {
   "username": "mahito-0",
-  "generated_at": "2026-10-31T17:31:29Z",
+  "generated_at": "2026-11-01T13:36:11Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 662,
-  "total_contributions_all_time": 1095,
+  "total_contributions": 636,
+  "total_contributions_all_time": 1096,
   "public_repos": 15,
   "total_commits": 321,
   "total_stars": 1,
-  "active_days": 148,
+  "active_days": 142,
   "avg_per_active_day": 4.5,
   "current_streak": {
     "length": 1,
@@ -28,12 +28,8 @@
   },
   "monthly": [
     {
-      "month": "2025-10",
-      "total": 16
-    },
-    {
       "month": "2025-11",
-      "total": 31
+      "total": 20
     },
     {
       "month": "2025-12",
@@ -77,45 +73,14 @@
     },
     {
       "month": "2026-10",
-      "total": 40
+      "total": 41
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-29",
-      "count": 7,
-      "level": 1
-    },
-    {
-      "date": "2025-10-30",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-10-31",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-11-01",
-      "count": 11,
-      "level": 2
-    },
     {
       "date": "2025-11-02",
       "count": 4,
@@ -1933,8 +1898,13 @@
     },
     {
       "date": "2026-10-31",
-      "count": 7,
+      "count": 8,
       "level": 1
+    },
+    {
+      "date": "2026-11-01",
+      "count": 0,
+      "level": 0
     }
   ]
 }
